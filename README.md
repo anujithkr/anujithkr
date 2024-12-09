@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I'm **Anujith KR**!  
+### MERN Stack Web Developer 🚀 | Passionate about crafting interactive and user-friendly web applications 🌐  
 
-<!--
-**anujithkr/anujithkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 **Tech Stack**
+- 💻 **Languages**: HTML, CSS, JavaScript  
+- 🌟 **Frontend Framework**: React.js  
+- 🌐 **Backend & Database**: Node.js, Express.js, MongoDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 **About Me**
+- 💡 **Curious Learner**: Always exploring new technologies and improving my skills.  
+- 🛠 **Problem Solver**: Enjoy tackling challenges and finding innovative solutions.  
+- 🌱 Currently diving deeper into full-stack development.  
+- 🎯 **Goals**: To build scalable and impactful web applications.  
+
+---
+
+### 📈 **GitHub Stats**  
+![Anujith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+
+---
+
+### 📫 **Let's Connect**  
+- 🌐 [Portfolio Website](#) https://anujithkr.github.io/portfolio/
+- 💼 [LinkedIn](#)  www.linkedin.com/in/anujith-kr-b95005259
+
+---
+
+### ⚡ **Fun Fact**  
+I believe coding is not just about writing lines of code, but about telling the computer a story to bring ideas to life.  
