@@ -11,6 +11,7 @@
 ---
 
 ### 🌟 **About Me**
+-  ME(A)RN STACK INTERN | LUMINAR TECHNOLAB
 - 💡 **Curious Learner**: Always exploring new technologies and improving my skills.  
 - 🛠 **Problem Solver**: Enjoy tackling challenges and finding innovative solutions.  
 - 🌱 Currently diving deeper into full-stack development.  
