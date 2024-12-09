@@ -10,8 +10,9 @@
 
 ---
 
-### 🌟 **About Me**
+### 🌟 **About Me** 
 -  ME(A)RN STACK INTERN | LUMINAR TECHNOLAB
+- 🎓 BCA graduated in banglore north university
 - 💡 **Curious Learner**: Always exploring new technologies and improving my skills.  
 - 🛠 **Problem Solver**: Enjoy tackling challenges and finding innovative solutions.  
 - 🌱 Currently diving deeper into full-stack development.  
@@ -20,14 +21,16 @@
 ---
 
 ### 📈 **GitHub Stats**  
-![Anujith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Anujith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
 
 ---
 
 ### 📫 **Let's Connect**  
 - 🌐 [Portfolio Website](#) https://anujithkr.github.io/portfolio/
 - 💼 [LinkedIn](#)  www.linkedin.com/in/anujith-kr-b95005259
+- email: anujithkr5@gmail.com
 
 ---
 
