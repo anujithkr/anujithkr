@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm **Anujith KR**!  
-### MERN Stack Web Developer 🚀 | Passionate about crafting interactive and user-friendly web applications 🌐  
+### ME(A)RN Stack Web Developer 🚀 | Passionate about crafting interactive and user-friendly web applications 🌐  
 
 ---
 
